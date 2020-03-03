@@ -1,2 +1,2 @@
 def Solution():
-  rais NotImplementedError
+  raise NotImplementedError
